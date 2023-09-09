@@ -32,6 +32,5 @@
 ## 📫 Como entrar em contato comigo
 
 <p align="center">
-  <a href="https://twitter.com/seu_nome_de_usuário"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://www.linkedin.com/in/lincolntaranto"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/lincoln-taranto/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
 </p>
