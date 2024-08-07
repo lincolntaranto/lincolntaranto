@@ -21,7 +21,7 @@
 ## 🔧 Tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Ruby&logoColor=white&color=2bbc8a" alt="Java">
+  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a" alt="Java">
   <img src="https://img.shields.io/badge/Tools-SpringBoot-informational?style=flat&logo=springboot&logoColor=white&color=2bbc8a" alt="Spring Boot">
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" alt="JavaScript">
   <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a" alt="HTML5">
