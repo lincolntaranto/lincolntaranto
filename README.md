@@ -6,7 +6,7 @@
   <samp>
     Sou Lincoln, um desenvolvedor de software apaixonado por tecnologia e inovação.
     <br><br>
-    Atualmente, estou trabalhando com tecnologias como Java, Spring Boot, JavaScript, CSS, HTML5, React e SQL.
+    Atualmente, estou trabalhando com tecnologias como JavaScript, CSS, HTML5, React e SQL.
     <br><br>
     Quando não estou codificando, gosto de jogar, ver series e explorar novas tecnologias.
   </samp>
@@ -21,8 +21,6 @@
 ## 🔧 Tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=2bbc8a" alt="Java">
-  <img src="https://img.shields.io/badge/Tools-SpringBoot-informational?style=flat&logo=springboot&logoColor=white&color=2bbc8a" alt="Spring Boot">
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" alt="JavaScript">
   <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a" alt="HTML5">
   <img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a" alt="CSS">
