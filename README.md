@@ -4,11 +4,11 @@
   <img src="https://media.giphy.com/media/3o7TKz2eMXx7dn95FS/giphy.gif" width="30%">
   <br><br>
   <samp>
-    Sou Lincoln, um desenvolvedor de software apaixonado por tecnologia e inovação.
+    Sou Lincoln, um aspirante a profissional de QA, apaixonado por tecnologia e qualidade de software.
     <br><br>
-    Atualmente, estou trabalhando com tecnologias como JavaScript, CSS, HTML5, React e SQL.
+    Atualmente, estou aprendendo e praticando tecnologias como Python, pytest, Selenium, BeautifulSoup e SQL.
     <br><br>
-    Quando não estou codificando, gosto de jogar, ver series e explorar novas tecnologias.
+    Quando não estou testando ou automatizando processos, gosto de jogar, ver séries e explorar novas ferramentas de tecnologia.
   </samp>
 </p>
 
@@ -21,10 +21,11 @@
 ## 🔧 Tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a" alt="HTML5">
-  <img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a" alt="CSS">
-  <img src="https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a" alt="SQL">
+<img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" alt="Python">
+<img src="https://img.shields.io/badge/Tools-pytest-informational?style=flat&logo=pytest&logoColor=white&color=2bbc8a" alt="pytest">
+<img src="https://img.shields.io/badge/Tools-BeautifulSoup-informational?style=flat&logo=beautifulsoup&logoColor=white&color=2bbc8a" alt="BeautifulSoup">
+<img src="https://img.shields.io/badge/Tools-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=2bbc8a" alt="Selenium">
+<img src="https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a" alt="SQL">
 </p>
 
 ## 📫 Como entrar em contato comigo
